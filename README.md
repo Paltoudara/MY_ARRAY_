@@ -64,4 +64,4 @@ of the operators *,->
     
 # 👥CONTRIBUTORS:
 
-🎨~The-Mastermind1
+🎨~Paltoudara
